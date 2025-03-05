@@ -35,6 +35,126 @@
         "lat": 48.83941303819501,
         "lng": 2.3538208007812504
       }
+    },
+    {
+      "id": "6d653afe-3741-4849-a56f-9fdb4490dc39",
+      "cityName": "Munster",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2025-03-03T15:59:46.194Z",
+      "notes": "Lovely city",
+      "position": {
+        "lat": 51.95526847967245,
+        "lng": 7.630004882812501
+      }
+    },
+    {
+      "id": "e18add31-7044-4cf1-a6bb-597b00fa1cab",
+      "cityName": "Luxembourg",
+      "country": "Luxembourg",
+      "emoji": "🇱🇺",
+      "date": "2025-03-03T16:12:25.960Z",
+      "notes": "It was fun",
+      "position": {
+        "lat": 49.59468979506586,
+        "lng": 6.135864257812501
+      }
+    },
+    {
+      "id": "e3edf23a-e45b-4a50-a179-bd218a6f0c7d",
+      "cityName": "Koln",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2025-03-03T16:13:04.481Z",
+      "notes": "Good city",
+      "position": {
+        "lat": 50.93614726882475,
+        "lng": 6.959152221679688
+      }
+    },
+    {
+      "id": "2153d3c0-87a2-404e-a7f8-fbd223406954",
+      "cityName": "Potsdam",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2025-03-03T16:17:06.207Z",
+      "notes": "The weather was good, so as well the city.",
+      "position": {
+        "lat": 52.39739142194209,
+        "lng": 13.059997558593752
+      }
+    },
+    {
+      "id": "fef4b674-3051-4bfd-97ab-5cf2b152be5a",
+      "cityName": "Osnabruck",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2025-03-03T16:18:58.168Z",
+      "notes": "The city where my brother gratuated the BG",
+      "position": {
+        "lat": 52.26479561297205,
+        "lng": 8.052978515625002
+      }
+    },
+    {
+      "id": "90f4fe70-5c7e-477b-ba68-ffc277bccb9e",
+      "cityName": "Frankfurt am Main",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2025-03-03T16:20:17.139Z",
+      "notes": "Beautiful city and very high buildings.",
+      "position": {
+        "lat": 50.10692811450649,
+        "lng": 8.686065673828127
+      }
+    },
+    {
+      "id": "44643375-871a-4c23-9ca4-660b59fc1b5a",
+      "cityName": "Rome",
+      "country": "Italy",
+      "emoji": "🇮🇹",
+      "date": "2025-03-03T16:21:02.176Z",
+      "notes": "The greate city with the great sightseeings.",
+      "position": {
+        "lat": 41.86956082699455,
+        "lng": 12.496948242187502
+      }
+    },
+    {
+      "id": "5e661972-07a4-4bf6-b676-c147b385ef52",
+      "cityName": "Istanbul",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "date": "2025-03-03T16:21:45.623Z",
+      "notes": "The best city in the world.",
+      "position": {
+        "lat": 40.9840449469281,
+        "lng": 28.987426757812504
+      }
+    },
+    {
+      "id": "da59ccd6-8da1-493b-9b1b-eea7ee0ac7f7",
+      "cityName": "Almaty",
+      "country": "Kazakhstan",
+      "emoji": "🇰🇿",
+      "date": "2025-03-03T17:11:47.279Z",
+      "notes": "I always love being in this city.",
+      "position": {
+        "lat": 43.23519845979045,
+        "lng": 76.94686889648439
+      }
+    },
+    {
+      "id": "2d384dad-1b27-4af9-84a4-cc7abe4906f3",
+      "cityName": "Beijing",
+      "country": "China",
+      "emoji": "🇨🇳",
+      "date": "2025-03-03T17:14:32.186Z",
+      "notes": "Lovely people",
+      "position": {
+        "lat": 39.884450178234395,
+        "lng": 116.41113281250001
+      }
     }
   ]
 }
